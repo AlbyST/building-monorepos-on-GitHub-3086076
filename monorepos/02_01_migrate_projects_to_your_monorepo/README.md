@@ -1,0 +1,6 @@
+- Cleanup previous repo files: rm -rf .git
+- Update rush.json file with the new package
+- `rush update`
+- `rush install`
+- `rush update`
+- `export NODE_OPTIONS=--openssl-legacy-provider; rush build`
